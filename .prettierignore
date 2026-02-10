@@ -1,0 +1,2 @@
+# Helm template files contain {{ }} and are not plain YAML
+templates/

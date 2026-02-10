@@ -1,6 +1,15 @@
 apiVersion: v2
-description: A Helm chart to serve as the Validated Patterns Template
+description: compliance-scanning performs hardening of OCP cluster vis predefiend profile(s)
 keywords:
   - pattern
-name: vp-template
+  - compliance
+  - zero trust
+  - hardening
+name: compliance-scanning
+type: application
+icon: https://validatedpatterns.io/images/validated-patterns.png
 version: 0.0.1
+home: https://github.com/validatedpatterns/ocp-compliance-scanning-chart
+maintainers:
+  - name: Validated Patterns Team
+    email: validatedpatterns@googlegroups.com
